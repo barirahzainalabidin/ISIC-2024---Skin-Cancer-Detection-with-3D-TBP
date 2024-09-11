@@ -13,11 +13,3 @@ Public Score : 0.120 - https://www.kaggle.com/code/barirahzainal/my-project-isic
 Public Score : 0.023  - https://www.kaggle.com/code/barirahzainal/my-isic-2024-submission-7
   
 Public Score : 0.020 - https://www.kaggle.com/code/barirahzainal/my-isic-2024-submission-6
-
-
-
-
-# Machine Learning Canvas Lists : 
-
-
-
